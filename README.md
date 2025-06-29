@@ -12,7 +12,7 @@
 
 ---
 
-## 🔒 Why Choose MultiMine?
+## 🔒 Why Choose MultiMiner?
 
 ✅ **Secure by design** – No hidden scripts, no telemetry, and regular code audits.  
 ✅ **Always Updated** – Stay ahead with the latest miner integrations and security patches.  
